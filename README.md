@@ -3,6 +3,7 @@
 <head>
 </head>
 <body>
+	<a href="https://topdev.vn/blog/can-giua-phan-tu-trong-css/">Căn giữa CSS</a>
 	<h1>CSS Transforms</h1>
 	<p>CSS Transforms cho phép bạn translate(dịch), rotate(xoay), scale(tỉ lệ), skew(nghiêng) phần tử.
 	</p>
